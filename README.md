@@ -10,6 +10,52 @@ Beheer de zenderlijsten, IPTV, oscam en backups van je satellietontvanger
 Het is één bestand. Je hoeft niets te installeren.
 Zet het in een eigen map, bijvoorbeeld op een USB-stick.
 
+## Zo ziet het eruit
+
+De namen en adressen op deze plaatjes zijn voorbeelden.
+
+### Alle boxen op het netwerk
+Het programma vindt de boxen zelf. Van elke box maakt het eerst een backup.
+
+![Alle boxen](schermen/1-boxen.png)
+
+### Eén box
+Wat er op de box staat, of de softcam draait, en of je de box in Windows Verkenner kunt openen.
+
+![Eén box](schermen/2-box.png)
+
+### Bouquets
+De volgorde hier is de volgorde op de tv. Sleep een bouquet naar een andere plek.
+Je kunt de hele lijst ook naar een andere box kopiëren.
+
+![Bouquets](schermen/3-bouquets.png)
+
+### Zenders aanpassen
+Klik op **Bewerken** bij een bouquet. Dan kun je zenders verplaatsen, hernoemen of weghalen.
+
+![Zenders aanpassen](schermen/4-zenders.png)
+
+### IPTV
+Plak een m3u-link of vul een Xtream-login in. Elke groep die je kiest, wordt een eigen bouquet.
+
+![IPTV](schermen/5-iptv.png)
+
+### Oscam
+Werk de softcam bij met een bestand of zip. Past hij niet of start hij niet, dan zet het programma de oude terug.
+Onderaan zet je lijnen (servers) aan of uit, of kopieer je ze naar een andere box.
+
+![Oscam](schermen/6-oscam.png)
+
+### Vergelijk
+Zie welke bouquets maar op één van twee boxen staan. Met één klik zet je ze ook op de andere.
+
+![Vergelijk](schermen/8-vergelijk.png)
+
+### Backups
+Kies een eerder moment en zet het terug. Ook terugzetten maakt eerst een backup.
+
+![Backups](schermen/7-backups.png)
+
 ## Starten
 
 Dubbelklik op `Enigma-Beheerder.exe`.
